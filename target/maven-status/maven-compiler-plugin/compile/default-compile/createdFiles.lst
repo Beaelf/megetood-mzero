@@ -1,0 +1,12 @@
+com\megetood\entity\bo\HeadLine.class
+com\megetood\HelloServlet.class
+com\megetood\entity\dto\Result.class
+com\megetood\service\solo\HeadLineService.class
+com\megetood\entity\bo\ShopCategory.class
+com\megetood\controller\DispatcherServlet.class
+com\megetood\entity\dto\MainPageInfoDTO.class
+com\megetood\service\solo\ShopCategoryService.class
+com\megetood\service\combine\impl\HeadLineShopCategoryCombineServiceImpl.class
+com\megetood\service\combine\HeadLineShopCategoryCombineService.class
+com\megetood\service\solo\impl\ShopCategoryServiceImpl.class
+com\megetood\service\solo\impl\HeadLineServiceImpl.class
