@@ -5,7 +5,11 @@ import lombok.*;
 import java.util.Date;
 
 
-@Data
+@Setter
+@Getter
+@Builder
+@NoArgsConstructor
+@AllArgsConstructor
 public class HeadLine {
 
     private Long lineId;

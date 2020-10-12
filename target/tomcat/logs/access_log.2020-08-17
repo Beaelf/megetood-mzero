@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [17/Aug/2020:03:39:06 +0800] "GET /megetood-spring/headline/query HTTP/1.1" 200 95 http-bio-8080-exec-1 75177
+0:0:0:0:0:0:0:1 - - [17/Aug/2020:03:39:06 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [17/Aug/2020:03:40:31 +0800] "GET /megetood-spring/headline/query HTTP/1.1" 200 156 http-bio-8080-exec-1 20656
+0:0:0:0:0:0:0:1 - - [17/Aug/2020:04:12:18 +0800] "GET /megetood-spring/templates/addheadline.jsp HTTP/1.1" 200 702 http-bio-8080-exec-1 2238
+0:0:0:0:0:0:0:1 - - [17/Aug/2020:04:12:33 +0800] "POST /megetood-spring/headline/add HTTP/1.1" 200 705 http-bio-8080-exec-3 342

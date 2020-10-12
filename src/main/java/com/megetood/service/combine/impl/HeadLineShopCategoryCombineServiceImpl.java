@@ -8,12 +8,15 @@ import com.megetood.service.combine.HeadLineShopCategoryCombineService;
 import com.megetood.service.solo.HeadLineService;
 import com.megetood.service.solo.ShopCategoryService;
 import org.mzero.core.annotation.Service;
+import org.mzero.core.inject.annotation.Autowired;
 
 import java.util.List;
 
 @Service
 public class HeadLineShopCategoryCombineServiceImpl implements HeadLineShopCategoryCombineService {
+    @Autowired
     private HeadLineService headLineService;
+    @Autowired
     private ShopCategoryService shopCategoryService;
     @Override
     public Result<MainPageInfoDTO> getMainPageInfo() {

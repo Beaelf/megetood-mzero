@@ -1,12 +1,10 @@
 package org.mzero.core;
 
-import com.megetood.controller.MainPageController;
+import com.megetood.controller.frontend.MainPageController;
 import com.megetood.service.solo.HeadLineService;
 import org.junit.jupiter.api.*;
 import org.mzero.core.annotation.Service;
-import sun.applet.Main;
 
-import javax.servlet.http.HttpServlet;
 import java.util.Set;
 
 @TestMethodOrder(MethodOrderer.OrderAnnotation.class)
