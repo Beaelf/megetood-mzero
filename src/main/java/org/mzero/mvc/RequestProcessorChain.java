@@ -16,7 +16,8 @@ import java.util.Iterator;
  * 1. 以责任链模式执行注册的请求处理器
  * 2. 委派给特定的Render实例对处理后的结果进行渲染
  *
- * @author chengdong.lei@hand-china.com 2020/08/16 17:02
+ * @author Lei Chengdong
+ * @date 2020/12/16
  */
 @Getter
 @Setter

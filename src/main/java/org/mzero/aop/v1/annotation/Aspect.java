@@ -5,7 +5,8 @@ import java.lang.annotation.*;
 /**
  * 用于标记一个类为切面实现类
  *
- * @author chengdong.lei@hand-china.com 2020/08/12 22:24
+ * @author Lei Chengdong
+ * @date 2020/12/16
  */
 @Target(ElementType.TYPE)
 @Retention(RetentionPolicy.RUNTIME)

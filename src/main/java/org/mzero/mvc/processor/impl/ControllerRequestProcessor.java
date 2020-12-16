@@ -26,7 +26,8 @@ import java.util.concurrent.ConcurrentHashMap;
 /**
  * Controller请求处理器
  *
- * @author chengdong.lei@hand-china.com 2020/08/16 17:02
+ * @author Lei Chengdong
+ * @date 2020/12/16
  */
 @Slf4j
 public class ControllerRequestProcessor implements RequestProcessor {

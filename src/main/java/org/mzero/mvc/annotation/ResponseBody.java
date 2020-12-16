@@ -8,7 +8,8 @@ import java.lang.annotation.Target;
 /**
  * 用于标记自动对返回值进行json处理
  *
- * @author chengdong.lei@hand-china.com 2020/08/16 19:39
+ * @author Lei Chengdong
+ * @date 2020/12/16
  */
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)

@@ -9,7 +9,8 @@ import java.lang.annotation.Target;
  * 执行优先级
  * value值越小，优先级越高
  *
- * @author chengdong.lei@hand-china.com 2020/08/12 22:26
+ * @author Lei Chengdong
+ * @date 2020/12/16
  */
 @Target(ElementType.TYPE)
 @Retention(RetentionPolicy.RUNTIME)

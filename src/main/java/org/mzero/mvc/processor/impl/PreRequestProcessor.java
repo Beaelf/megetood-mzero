@@ -6,7 +6,8 @@ import org.mzero.mvc.processor.RequestProcessor;
 /**
  * 请求预处理，包括编码以及路径处理
  *
- * @author chengdong.lei@hand-china.com 2020/08/16 17:02
+ * @author Lei Chengdong
+ * @date 2020/12/16
  */
 public class PreRequestProcessor implements RequestProcessor {
 

@@ -5,7 +5,8 @@ import java.lang.annotation.*;
 /**
  * description
  *
- * @author chengdong.lei@hand-china.com 2020/08/12 22:24
+ * @author Lei Chengdong
+ * @date 2020/12/16
  */
 @Target(ElementType.TYPE)
 @Retention(RetentionPolicy.RUNTIME)

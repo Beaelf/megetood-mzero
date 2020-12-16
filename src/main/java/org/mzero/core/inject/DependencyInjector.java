@@ -9,10 +9,9 @@ import org.mzero.util.ValidationUtil;
 import java.lang.reflect.Field;
 import java.util.Set;
 
-/**
- * @author leichengdong
- * @version 1.0.0
- * @date 2020/8/4 13:05
+/*
+ * @author Lei Chengdong
+ * @date 2020/12/16
  */
 @Slf4j
 public class DependencyInjector {

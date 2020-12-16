@@ -8,7 +8,8 @@ import java.lang.annotation.Target;
 /**
  * 请求方法参数名称
  *
- * @author chengdong.lei@hand-china.com 2020/08/16 19:36
+ * @author Lei Chengdong
+ * @date 2020/12/16
  */
 @Target(ElementType.PARAMETER)
 @Retention(RetentionPolicy.RUNTIME)

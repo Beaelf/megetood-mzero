@@ -8,7 +8,8 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * 资源找不到时使用的渲染器
  *
- * @author chengdong.lei@hand-china.com 2020/08/16 17:21
+ * @author Lei Chengdong
+ * @date 2020/12/16
  */
 public class ResourceNotFoundResultRender implements ResultRender {
     private String httpMethod;

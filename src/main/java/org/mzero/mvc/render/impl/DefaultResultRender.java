@@ -6,7 +6,8 @@ import org.mzero.mvc.render.ResultRender;
 /**
  * 默认渲染器
  *
- * @author chengdong.lei@hand-china.com 2020/08/16 17:21
+ * @author Lei Chengdong
+ * @date 2020/12/16
  */
 public class DefaultResultRender implements ResultRender {
 

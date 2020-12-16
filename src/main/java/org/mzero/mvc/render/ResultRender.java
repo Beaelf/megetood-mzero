@@ -5,7 +5,8 @@ import org.mzero.mvc.RequestProcessorChain;
 /**
  * 渲染请求结果
  *
- * @author chengdong.lei@hand-china.com 2020/08/16 17:19
+ * @author Lei Chengdong
+ * @date 2020/12/16
  */
 public interface ResultRender {
     // 执行渲染

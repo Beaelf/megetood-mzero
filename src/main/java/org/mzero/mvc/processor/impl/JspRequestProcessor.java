@@ -10,7 +10,8 @@ import javax.servlet.ServletContext;
 /**
  * jsp资源请求处理
  *
- * @author chengdong.lei@hand-china.com 2020/08/16 17:02
+ * @author Lei Chengdong
+ * @date 2020/12/16
  */
 @NoArgsConstructor
 public class JspRequestProcessor implements RequestProcessor {
